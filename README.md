@@ -34,6 +34,6 @@ Welcome to the **Car Marketplace App**! This platform is designed to connect car
 
 ### **This project was created by:**
 
-- **Sharad C Reddy
-- **Shivansh Mishra
-- **Dhrup Ivane
+- Sharad C Reddy
+- Shivansh Mishra
+- Dhrup Ivane
