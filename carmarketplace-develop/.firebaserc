@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "carmarketplaceapp"
-  }
+    "default": "carmarketplaceapp",
+    "carmarketplace-prod": "carmarketplace-c48be",
+    "staging": "carmarketplace-c48be"
+  },
+  "targets": {},
+  "etags": {}
 }
